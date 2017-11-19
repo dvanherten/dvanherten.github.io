@@ -1,0 +1,39 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: dvanherten
+google_analytics: dvanherten
+title: Dave van Herten
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Dave van Herten
+
+description: Stylish Jekyll Theme
+author:
+  name: Dave van Herten
+  email: dave@vanherten.ca
+  github: dvanherten
+  twitter: dvanherten
+  linkedin: davevanherten
+  bio: Adventures in Code
+  email_md5: b2f88b9cea93c3def633e454199d296e
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate
