@@ -6,7 +6,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dvanherten
+disqus: dvanhertenblog
 google_analytics: dvanherten
 title: Dave van Herten
 
