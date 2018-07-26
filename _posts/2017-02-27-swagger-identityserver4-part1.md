@@ -11,7 +11,7 @@ Lately I've been doing a lot of reading and experimenting with IdentityServer4. 
 This tutorial will be a two part series:
 
 1. Adding Swagger to a WebApi
-1. Adding IdentityServer to the WebApi
+1. [Adding IdentityServer to the WebApi](/2017/03/swagger-identityserver4-part2/)
 
 If you just want the sample code, hit up my  [sample github repo](https://github.com/dvanherten/swagger-identityserver). As a note, I did this in VS 2017 RC so it will be using the .csproj style projects.
 
