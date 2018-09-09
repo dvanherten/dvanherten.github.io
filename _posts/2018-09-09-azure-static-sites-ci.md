@@ -6,9 +6,10 @@ fullview: false
 comments: true
 permalink: /2018/09/azure-static-sites-cleanup/
 ---
-# Azure Static Sites are pretty awesome!
 
-[Static web hosting](https://azure.microsoft.com/en-us/blog/azure-storage-static-web-hosting-public-preview/) is now a thing in Azure Storage and is pretty easy to setup. 
+[Static web hosting](https://azure.microsoft.com/en-us/blog/azure-storage-static-web-hosting-public-preview/) is now a thing in Azure Storage and is pretty easy to setup. There's a small caveat with the CI/CD solution they've provided though.
+
+## Getting setup
 
 I'm not going to go into it here because there a perfectly fine tutorial on [how to setup the static site initially](https://code.visualstudio.com/tutorials/static-website/getting-started) and also how to take that site and [enable a CICD build around it](https://code.visualstudio.com/tutorials/static-website/deploy-VSTS). 
 
