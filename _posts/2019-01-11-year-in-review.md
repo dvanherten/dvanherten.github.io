@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 Year in Review
-categories: [DevOps]
+categories: [General]
 fullview: false
 comments: true
 permalink: /2019/01/year-in-review/
