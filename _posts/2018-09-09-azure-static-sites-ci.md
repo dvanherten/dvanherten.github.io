@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI/CD with Azure Storage Static Sites
-categories: [DevOps]
+categories: [devops]
 fullview: false
 comments: true
 permalink: /2018/09/azure-static-sites-cleanup/
